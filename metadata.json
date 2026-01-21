@@ -1,0 +1,8 @@
+{
+  "name": "maguAI",
+  "description": "A high-performance AI creative suite featuring conversational intelligence with Gemini 3 and next-gen image synthesis using Nano Banana models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
